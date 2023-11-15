@@ -1,3 +1,8 @@
+# Outbreak
+Viral outbreak simulator using SFML.
+My first ever project.
+Looks terrible ngl. ಠ⁠﹏⁠ಠ
+
 ## Visuals
 
 ### Logo
@@ -10,14 +15,13 @@
 ![sim](https://user-images.githubusercontent.com/83116065/141307693-10a407c6-31ab-417d-9183-2721792f182b.gif)
 
 
-## Features
-- Basic idea how covid attack works
-- Importance of maintaining social distance
-- Avoiding crowded places
-- Circumstances if Fatality rate increaes
-- Quarentine helps reducing virus spreading
+## Implemented:
+- How viruses like covid spreads.
+- Importance of maintaining social distancing and avoiding crowded places.
+- Circumstances if fatality rate increaes.
+- Quarantine helps to reduce spreading of virus.
 
 
 ## Stats
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sheikh-Tafsir&theme=radical&repo=Outbreak)](https://github.com/anuraghazra/github-readme-stats)
-
+Thanks, Tafsir ❤️
